@@ -48,7 +48,6 @@ function oddsSmallerThan(n) {
  * squareOrDouble(9) -> 81
  */
 function squareOrDouble(n) {
-  // Your code here
   if (n % 2) {
     return n * n;
   } else {
